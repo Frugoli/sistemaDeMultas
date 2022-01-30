@@ -7,5 +7,5 @@ function verificar()    {
     if (vel > 60)   {
         res.innerHTML += `Você está MULTADO por excesso de velocidade! `
     }
-        res.innerHTML += `<p>Dirija sempre com cinto de segurança!`
+        res.innerHTML += `<p>Dirija sempre com cinto de segurança!</p>`
 }
